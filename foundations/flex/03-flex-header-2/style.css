@@ -51,21 +51,22 @@ ul {
 /* My Solution */
 .header {
   display: flex;
-  padding: 10px;
+  padding: 8px;
   justify-content: space-between;
   align-items: center;
 }
 
 .links {
   display: flex;
-  gap: 15px;
+  gap: 16px;
 }
 
 .right{
   display: flex;
-  gap: 5px;
+  gap: 16px;
 }
 
 .left {
   display: flex;
+  gap: 16px;
 }
